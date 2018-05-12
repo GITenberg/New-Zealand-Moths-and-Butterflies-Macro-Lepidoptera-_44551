@@ -1,0 +1,28 @@
+_repo: New-Zealand-Moths-and-Butterflies-Macro-Lepidoptera-_44551
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44551-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hudson, G. V. (George Vernon)
+    alias: Hudson, George Vernon
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '42570'
+    url: http://www.gutenberg.org/2009/agents/42570
+    wikipedia: https://en.wikipedia.org/wiki/George_Vernon_Hudson
+description: ''
+gutenberg_issued: '2013-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lepidoptera -- New Zealand'
+- !lcc 'QL'
+title: New Zealand Moths and Butterflies (Macro-Lepidoptera)
+url: http://www.gutenberg.org/ebooks/44551
